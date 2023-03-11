@@ -2162,7 +2162,7 @@ div.top img {
   margin: 15px 0 0 15px;
 }
 .no-thumb {
-  background: url("../images/kvs.svg") no-repeat center;
+  background: url("../images/kvs.png") no-repeat center;
 }
 .list-members .item {
   width: calc(20% - 10px);
